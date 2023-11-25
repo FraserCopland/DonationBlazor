@@ -32,6 +32,8 @@ else
                     <td>@donation.Date.ToString("dd MMM yyyy")</td>
                     <td>@donation.PaymentMethodId</td>
                     <td>@donation.Notes</td>
+                    <td><a class="btn btn-success btn-sm" href="/updel/@donation.AccountNo/edit">edit</a></td>
+                    <td><a class="btn btn-danger btn-sm" href="/updel/@donation.AccountNo/del">del</a></td> 
                 </tr>
             }
         </tbody>
