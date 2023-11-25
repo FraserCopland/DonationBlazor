@@ -1,0 +1,4 @@
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net7.0\DonationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net7.0\DonationLibrary.AssemblyInfoInputs.cache
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net7.0\DonationLibrary.AssemblyInfo.cs
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net7.0\DonationLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,1 @@
+dotnet ef migrations add M1 --project ../DonationLibrary/DonationLibrary.csproj -o Data/Migrations

@@ -1,0 +1,14 @@
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\bin\Debug\net8.0\DonationLibrary.deps.json
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\bin\Debug\net8.0\DonationLibrary.runtimeconfig.json
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\bin\Debug\net8.0\DonationLibrary.dll
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\bin\Debug\net8.0\DonationLibrary.pdb
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\DonationLibrary.csproj.AssemblyReference.cache
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\DonationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\DonationLibrary.AssemblyInfoInputs.cache
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\DonationLibrary.AssemblyInfo.cs
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\DonationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\DonationLibrary.dll
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\refint\DonationLibrary.dll
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\DonationLibrary.pdb
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\DonationLibrary.genruntimeconfig.cache
+C:\Users\frase\Documents\4602\DonationAppSolution\DonationLibrary\obj\Debug\net8.0\ref\DonationLibrary.dll
